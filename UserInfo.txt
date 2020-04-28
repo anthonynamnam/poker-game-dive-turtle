@@ -1,0 +1,2 @@
+UserID	LoginID		Score   PlayedGame
+1       root1234        2       1
